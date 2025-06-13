@@ -39,7 +39,8 @@ How to use?
 4. Install all the requirments present in the requirments.txt (pip install -r requirments.txt).
 5. Run the Streamlit application (streamlit run app.py).
 7. A new streamlit application opens.
-![screenshot](screenshot.png)
+   [Screenshot1](img/Screenshot1.png)
+   
 9. Insert your OpenAI key. Customize the temperature (The uniquen answer of the same question), choose your favirote model (GPT-4/GPT-4o/GPT-4-Turbo).
 10. Enter the Question
 11. ChatOpenAI calls OpenAI’s API to generate an answer.
