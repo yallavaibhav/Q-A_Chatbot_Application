@@ -45,7 +45,7 @@ How to use?
 11. ChatOpenAI calls OpenAI’s API to generate an answer.
 12. LangSmith logs the full trace (inputs, outputs, model config).
 
-![img/Screenshot2.png](img/Screenshot2.png)
+![Screenshot2](img/Screenshot2.png) 
 
 The result is displayed in Streamlit.
 
