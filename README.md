@@ -25,6 +25,7 @@ This is a powerful **Q&A chatbot** built using the **OpenAI API**, deployed with
 - Python 3.11
 
 ---
+## Getting Started
 
 Clone it:
 1. Enter your LangChain API for tracing.
